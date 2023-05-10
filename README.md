@@ -531,7 +531,7 @@ sudo apt-get install fd-find
 dnf install fd-find
 ```
 
-### 在Alpine Linux上
+### 在Arch Linux上
 
 你可以从官方库安装 [fd 软件包]([Arch Linux - fd 8.6.0-1 (x86_64)](https://www.archlinux.org/packages/community/x86_64/fd/))。
 
